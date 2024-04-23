@@ -11,9 +11,27 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fabio2000&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1100)](https://git.io/streak-stats)
 
 </div>
-
-
 <br>
+
+<div>
+    <p align="center">
+        <a href="mailto:frsilva2101@gmail.com" rel="nofollow"><img
+                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+                alt="email"
+                data-canonical-src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+                style="max-width: 100%;"></a>
+        <a href="https://www.linkedin.com/in/fabio-rodrigues-da-silva-308a53185/" rel="nofollow"><img
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="linkedin"
+                data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                style="max-width: 100%;"></a>
+                        <a href="https://fabio2000.github.io/Curriculum/project/" rel="nofollow"><img
+                src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
+                alt="portifolio"
+                data-canonical-src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"
+                style="max-width: 100%;"></a>
+      </p>      
+    </div>
 <br>
 <p align="center"><b>Conatgem de visitantes</b></p> 
   
