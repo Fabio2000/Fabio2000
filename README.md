@@ -12,7 +12,15 @@
 
 </div>
 
+
 <br>
+<br>
+<p align="center"><b>Conatgem de visitantes</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFabio2000&s=40&c=001eff&bg=00000000&no=6&ff=alien&tb=&ta=" /></p> 
+<br>
+<br>
+
 <p align="left">
     <h3 align="left">Linguagens da programação:</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
