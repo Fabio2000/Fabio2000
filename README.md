@@ -131,3 +131,5 @@
             alt="linux" width="60" height="60" />
     </a>
 </p>
+
+<strong>Provérbios 9:9</strong>
