@@ -132,4 +132,4 @@
     </a>
 </p>
 
-<strong>Provérbios 9:9</strong>
+<strong align="center">Provérbios 9:9</strong>
