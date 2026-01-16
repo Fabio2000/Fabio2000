@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0E00F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Fabio%F0%9F%91%8B%F0%9F%8F%BD;Tenho+24+anos+de+idade%F0%9F%91%A6%F0%9F%8F%BD;Sou+analista+Pleno+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Entusiasta+da+programa%C3%A7%C3%A3o%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0E00F7&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Fabio%F0%9F%91%8B%F0%9F%8F%BD;Tenho+26+anos+de+idade%F0%9F%91%A6%F0%9F%8F%BD;Sou+analista+Pleno+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Entusiasta+da+programa%C3%A7%C3%A3o%F0%9F%92%BB)](https://git.io/typing-svg)
 <br>
 <br>
 
