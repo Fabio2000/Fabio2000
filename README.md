@@ -73,11 +73,6 @@
   <img src="https://streak-stats.demolab.com?user=Fabio2000&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=800" alt="GitHub Streak" />
 </div>
 <br>
-
-<div align="center">
-  <b>Visitantes</b><br>
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFabio2000&s=40&c=2094f3&bg=00000000&no=6&ff=alien&tb=&ta=" />
-</div>
 <br>
 
 <p align="center">
